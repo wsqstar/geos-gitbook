@@ -1,7 +1,7 @@
 # this is the resources list of SMA
 Spatial Modeling is quite important.
 ## Reading list
-- Some References 
+### Week 4
 - Baumgart B 1975 A polyhedron represenation for computer vision. proceedings AFIPS National Conference, 44, 589-96.
 - Cova, T. J. and Goodchild, M. F., 2002, Extending geographical representation to include fields of spatial objects. International Journal of Geographical Information Science, 16(6), pp. 509—532. 
 - Dutton, G. (1972) Harvard papers on topological data structures. Harvard Lab for Computer Graphics Spatial Analysis, Vols. I - 8. 
@@ -11,7 +11,17 @@ Spatial Modeling is quite important.
 - Piwowar, J. M., Ledrew, E. F. and Dudyeha, D. J. (1990) Integration of spatial data in vector and raster formats in a GIS environment. International Journal of Geographical Information Systems, 4 (4), 429-444. 
 - Weiler 1985 Edge-based data structures for solid modelling in curved-surface environments, Computer graphics Applications, I 21-40. 
 - Wise, S., (2002). GIS Basics. CRC Press, New York. Worboys, M. and M. Duckham, (2004). GIS: A Computing Perspective. CRC press, New York. 
-
+### Week 5
+- Worboys,GIS A Computing Perspective 2004
+- NCGIAcorecurriculum-
+  - Unit54Representingfields
+  - Unit55：Rasters
+  - Unit57：Quadtrees&ScanOrders
+  - http://www.ncgia.ucsb.edu/education/curricula/giscc/
+- StephenWise2014 GISFundamentals Chapters7&8 Fundament
+- Bonham-Carter,G.1994 GISforGeoscientists.ModelingwithGIS.
+- Worboys,M.Duckham,M
+- Bonham-Carter,1994, GIS for scientists. Modeling with gis
 
 ## Ref list by class
 ### Week 1
