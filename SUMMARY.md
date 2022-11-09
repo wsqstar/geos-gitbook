@@ -8,9 +8,3 @@
 * [tigis](./tigis/index.md)
 * [rppp](./rppp/index.md)
 * [test](test.md)
-
-
-## Acknowledgements
-- School of Geoscience, University of Edinburgh
-- https://giseo.1314.io/
-- 
