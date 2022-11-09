@@ -3,7 +3,7 @@ Spatial Modeling is quite important.
 ## Reading list
 ### Week 4
 - Baumgart B 1975 A polyhedron represenation for computer vision. proceedings AFIPS National Conference, 44, 589-96.
-- Cova, T. J. and Goodchild, M. F., 2002, Extending geographical representation to include fields of spatial objects. International Journal of Geographical Information Science, 16(6), pp. 509—532. 
+- [Cova, T. J. and Goodchild, M. F., 2002, Extending geographical representation to include fields of spatial objects. International Journal of Geographical Information Science, 16(6), pp. 509—532.](https://discovered.ed.ac.uk/permalink/44UOE_INST/1viuo5v/cdi_crossref_primary_10_1080_13658810210137040) 
 - Dutton, G. (1972) Harvard papers on topological data structures. Harvard Lab for Computer Graphics Spatial Analysis, Vols. I - 8. 
 - Egenhofer, M. J. and Herring, J. R. (1991 ) High level spatial data structures for GIS. In Maguire, D. J., Goodchild, M. E and Rhind, D. W. (Edo Geographical Information •stems: Principles and Applications. Longman, Harlow. Chapter 16. 
 - Franklin, W. R. (1991) Computer systems and low-level data structures for GIS. In Maguire, D. J., Goodchild, M. F. and Rh,nd, D. W (ECK) Geographical Information_Systems: Principles and Applications. Longman, Harlow. Chapter 15. 
