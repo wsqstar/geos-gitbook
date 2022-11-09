@@ -1,6 +1,6 @@
 # Summary
 
-* [intro](README.md)
+* [Introduction](README.md)
 * [SMA](./sma/index.md)
   * [ER](./sma/E_R.md)
   * [week 2](./sma/week/2.md)
