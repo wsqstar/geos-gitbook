@@ -5,3 +5,4 @@
   * [ER](./sma/E_R.md)
 * [tigis](./tigis/index.md)
 * [rppp](./rppp/index.md)
+* [test](test.md)
