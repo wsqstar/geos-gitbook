@@ -4,7 +4,8 @@
 - [Urabn Spatial Analyse with R](https://urbanspatial.github.io/PublicPolicyAnalytics/geospatial-risk-modeling-predictive-policing.html)
 ## Math
 - [Mathcentre](https://mathcentre.ac.uk/)
-
+## Coding Skills
+- [the cs 50](https://www.youtube.com/watch?v=IDDmrzzB14M&ab_channel=CS50)
 ## Writing Skills
 
 ### How to write a polcy brief?
