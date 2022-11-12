@@ -8,3 +8,4 @@
 * [TIGIS](./tigis/index.md)
 * [ECG](./egc/index.md)
 * [RPPP](./rppp/index.md)
+* [You may like](./5good2u/index.md)
