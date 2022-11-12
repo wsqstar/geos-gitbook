@@ -1,10 +1,12 @@
 ## this is the resoures of tigis
+
 ### Reference and answers
 - W3 Schools https://www.w3schools.com/python/
 - Stack Overflow https://stackoverflow.com/questions/tagged/python
 - Tutorials
   - Software Carpentries http://swcarpentry.github.io/python-novice-gapminder/
   - Code Academy https://www.codecademy.com/learn/learn-python-3
+
 ### Recommended Texts:
 - Python in a Nutshell (2022), Alex Martelli, O’Reiley
 - Learning Python (2013) , Mark Lutz, O’Reiley
