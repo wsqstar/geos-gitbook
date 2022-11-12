@@ -2,7 +2,7 @@
 	"title": "Summary",
     "links": {
         "sidebar": {
-            "Home": "https://www.geos.ed.ac.uk"
+            "Home": "https://www.ed.ac.uk/geosciences/"
         }
     },
 	"plugins" : [
@@ -20,7 +20,7 @@
 	],
 	"pluginsConfig": {	
 		"page-footer-ex": {
-            "copyright": "使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+            "copyright": "Use[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)发布",
             "markdown": true,
             "update_label": "<i>updated</i>",
             "update_format": "YYYY-MM-DD HH:mm:ss"
