@@ -19,6 +19,6 @@ Since it has not been published yet, the relevant copyright links have not been 
 - [Markdown](https://markdown.com.cn/)
 
 ## Contact me:
-- mailto: shiqi#1314.io (change # to @), or you can just contact me within the university email system :)
+- mailto: shiqi#1314.io (change # to @)(this email is checked weekly), or you can just contact me within the university email system :)
 - [Weekly Event](https://www.ed.ac.uk/geosciences/events/staff-students/edinburgh-earth-observatory-seminars)
 - Join the teams study group!(email my university email for access)
