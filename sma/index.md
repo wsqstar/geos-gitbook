@@ -13,6 +13,7 @@ Spatial Modeling is quite important.
 - Piwowar, J. M., Ledrew, E. F. and Dudyeha, D. J. (1990) Integration of spatial data in vector and raster formats in a GIS environment. International Journal of Geographical Information Systems, 4 (4), 429-444. 
 -  **Weiler 1985 Edge-based data structures for solid modelling in curved-surface environments, Computer graphics Applications, I 21-40.**
 - **Wise, S., (2002). GIS Basics. CRC Press, New York. Worboys, M. and M. Duckham, (2004). GIS: A Computing Perspective. CRC press, New York.** 
+
 ### Week 5
 - Worboys,GIS A Computing Perspective 2004
 - NCGIAcorecurriculum-
@@ -25,7 +26,7 @@ Spatial Modeling is quite important.
 - Worboys,M.Duckham,M
 - Bonham-Carter,1994, GIS for scientists. Modeling with gis
 
-## Ref list by class
+## Note list by week
 ### Week 1
 - Hotpoint Map
   - quite important
