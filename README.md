@@ -22,3 +22,8 @@ Since it has not been published yet, the relevant copyright links have not been 
 - mailto: shiqi#1314.io (change # to @)(this email is checked weekly), or you can just contact me within the university email system :)
 - [Weekly Event](https://www.ed.ac.uk/geosciences/events/staff-students/edinburgh-earth-observatory-seminars)
 - Join the teams study group!(email my university email for access)
+
+## By the way:
+- this site use google site analyse
+- this site is built with gitbook
+- this site is on github

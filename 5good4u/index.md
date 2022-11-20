@@ -1,10 +1,33 @@
 **This is a list of resources that might good for your study.**
+Before you write down someting, you should learn to know how to [think critically](https://www.ed.ac.uk/institute-academic-development/study-hub/learning-resources/critical).
+# Main
+## In my opinion, we need 
+**basic skills, professional skills, writing skills**
+- The basic ability are
+  - Mathematical ability
+  - Programming ability
+- Professional competence is GIS
+  - Software operation
+  - Spatial Analysis
+- writing abilities:
+  - Article writing
+  - essay writing
+  - Paper published
+  - Policy Briefing
+  - Critical thinking
+  - Speeches and presentations
+
+## Exams
+- [University of Edinburgh Exam Papers Online: 2004/05 to 2021/2022](https://exampapers.ed.ac.uk/)
 
 ## Books
 - [Urabn Spatial Analyse with R](https://urbanspatial.github.io/PublicPolicyAnalytics/geospatial-risk-modeling-predictive-policing.html)
 
 ## Math
 - [Mathcentre](https://mathcentre.ac.uk/)
+
+## English
+- [Learning Res](https://www.ed.ac.uk/institute-academic-development/study-hub/learning-resources/english)
 
 ## Coding Skills
 - [the cs 50](https://www.youtube.com/watch?v=IDDmrzzB14M&ab_channel=CS50)
@@ -34,3 +57,7 @@
 - Computers, Environment and Urban Systems (CEUS)www.journals.elsevier.com/computers-environment-and-urban-systems
 - Transactions in GIS, http://onlinelibrary.wiley.com/
 - Cartography and GIS http://www.cartogis.org/
+
+# References
+- pre-sessional reading list
+- course
